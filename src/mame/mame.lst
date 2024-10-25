@@ -17723,6 +17723,9 @@ draco                           // (c) 1981 Cidelsa
 @source:efo/nightmare.cpp
 nightmare                       // (c) 1982 E.F.O.
 
+@source:ehbc/proto1.cpp
+proto1
+
 @source:elektor/avrmax.cpp
 atm18mcc
 avrmax
